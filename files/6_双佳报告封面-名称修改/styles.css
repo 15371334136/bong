@@ -25,6 +25,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  color:#666666;
 }
 #u365 {
   position:absolute;
@@ -32,6 +33,7 @@
   top:192px;
   width:227px;
   height:37px;
+  color:#666666;
 }
 #u366 {
   position:absolute;
